@@ -1,0 +1,10 @@
+D:\CourseProject\ClientAppSln\MainForm\bin\Debug\MainForm.exe.config
+D:\CourseProject\ClientAppSln\MainForm\bin\Debug\MainForm.exe
+D:\CourseProject\ClientAppSln\MainForm\bin\Debug\MainForm.pdb
+D:\CourseProject\ClientAppSln\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\CourseProject\ClientAppSln\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\CourseProject\ClientAppSln\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\CourseProject\ClientAppSln\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\CourseProject\ClientAppSln\MainForm\obj\Debug\MainForm.exe
+D:\CourseProject\ClientAppSln\MainForm\obj\Debug\MainForm.pdb
+D:\CourseProject\ClientAppSln\MainForm\obj\Debug\MainForm.MainForm.resources
